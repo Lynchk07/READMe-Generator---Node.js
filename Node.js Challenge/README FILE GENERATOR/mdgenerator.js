@@ -25,7 +25,6 @@ function renderLicenseBadge (license){
     ${renderLicenseBadge (answers.license)}\n
     # ${answers.title} \n
     # Table of Contents \n
-    ${toc}
     *[Description](#description)
     *[Installation](#installation)
     *[Usage](#Usage)
@@ -42,7 +41,7 @@ function renderLicenseBadge (license){
     ## GitHub \n
     [github link] (https://github.com/${answers.git})\n
     ## Email \n
-    ${answers.email}\n`
+    You can reach me here:${answers.email}\n`
   }
  
  module.exports = generateMarkdown

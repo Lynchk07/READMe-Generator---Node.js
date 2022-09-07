@@ -28,8 +28,13 @@
 
     ## GitHub 
 
-    [github link] (https/github.com/Lynchk07)
+    [github link] (https://lynchk07.github.io/READMe-Generator---Node.js/)
 
     ## Email 
 
     XX@gmail.com
+
+    ## Video Tutorial Link 
+    
+    You Tube: `video:https://youtu.be/IHYvg3KMUPU`
+   `video: https://drive.google.com/file/d/18b7IhnYLho_j0DN6m9wxiRR2QMoPALAN/view`
