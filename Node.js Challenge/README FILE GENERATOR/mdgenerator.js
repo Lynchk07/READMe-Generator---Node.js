@@ -39,7 +39,7 @@ function renderLicenseBadge (license){
     ## Collaborators \n
     ${answers.credits}\n
     ## GitHub \n
-    [github link] (https/github.com/${answers.git})\n
+    [github link] (https://github.com/${answers.git})\n
     ## Email \n
     ${answers.email}\n`
   }
