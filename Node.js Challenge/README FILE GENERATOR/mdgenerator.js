@@ -24,7 +24,8 @@ function renderLicenseBadge (license){
     return `# ${answers.title} \n
     ${renderLicenseBadge (answers.license)}\n
     # ${answers.title} \n
-    # Table of Contents 
+    # Table of Contents \n
+    ${toc}
     *[Description](#description)
     *[Installation](#installation)
     *[Usage](#Usage)
