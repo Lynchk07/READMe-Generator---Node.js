@@ -12,7 +12,7 @@ inquirer.prompt([
             type: 'input',
             name: 'title',
             message: 'what is your project title?',
-            
+        
             
         },
         {
@@ -32,7 +32,7 @@ inquirer.prompt([
             type: 'input',
             name: 'installation',
             message: 'What steps required for install?',
-            
+            default: "Clone this repo and run NPM inquirer install "
             
         },
         {
