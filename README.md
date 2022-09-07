@@ -7,7 +7,7 @@
     # Table of Contents 
     *[Description](#description)
     *[Installation](#installation)
-    *[Usage](#Usage)
+    *[Usage](#usage)
     *[Test](#test)
     
     # Description 
@@ -35,6 +35,6 @@
     XX@gmail.com
 
     ## Video Tutorial Link 
-    
-    You Tube: `video:https://youtu.be/IHYvg3KMUPU`
-   `video: https://drive.google.com/file/d/18b7IhnYLho_j0DN6m9wxiRR2QMoPALAN/view`
+    [![Readme Vlog](./Node.js%20Challenge/assets/vlog.png]({https://drive.google.com/file/d/1vDw3ELiJm-fdVKrGhiZuwzYxA7hUoVKA/view} "Readme VLog")
+    Voice over vlog - YouTube: `video:https://youtu.be/IHYvg3KMUPU`
+   
