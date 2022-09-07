@@ -32,7 +32,7 @@ inquirer.prompt([
             type: 'input',
             name: 'installation',
             message: 'What steps required for install?',
-            default: "Clone this repo and run NPM inquirer install "
+            default: "Clone this repo and run NPM inquirer install ",
             
         },
         {
@@ -53,7 +53,7 @@ inquirer.prompt([
             type: 'list',
             name: 'license',
             message: 'What license did you use?',
-            choices:['MIT License','Apache License','GNU License']
+            choices:['MIT License','Apache License','GNU License'],
             
         },
         {
@@ -73,7 +73,7 @@ inquirer.prompt([
             type: 'input',
             name: 'test',
             message: 'Test used?',
-            default: "NPM test", 
+            default: "NPM run test", 
             
         },
 // TODO: Create a function to write README file
