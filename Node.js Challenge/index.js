@@ -16,7 +16,8 @@ inquirer.prompt([
             
         },
         {
-            type: 'input',name: 'description',
+            type: 'input',
+            name: 'description',
             message: 'what is your project description?',
             
             
